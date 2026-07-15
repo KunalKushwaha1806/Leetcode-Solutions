@@ -79,4 +79,5 @@ Feel free to reach out if you have questions or suggestions!
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
