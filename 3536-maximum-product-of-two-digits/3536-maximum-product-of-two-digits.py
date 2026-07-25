@@ -1,19 +1,16 @@
 from collections import Counter 
 class Solution:
     def maxProduct(self, n: int) -> int:
-        a=[int(d) for d in str(n)]
-        b=Counter(a)
-        a=set(a)
-        c=0
-        ans=1
-        for i in range(9,-1,-1):
-            if i in a:
-                ans*=i
-                c+=1
-            if b[i]>=2 and c<2:
-                ans*=i
-                c+=1
-            if c==2:
-                return ans 
-
+        m1=-1
+        m2=-1
+        while (n>0):
+            d=n%10
+            n//=10
+            if d>m1:
+                m2=m1
+                m1=d
+                
+            elif d>m2:
+                m2=d
+        return m1*m2
         
