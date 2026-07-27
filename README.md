@@ -182,16 +182,20 @@ Feel free to reach out if you have questions or suggestions!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
