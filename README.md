@@ -194,6 +194,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0098-validate-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
@@ -201,6 +202,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0098-validate-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search Tree
 |  |
@@ -213,11 +215,13 @@ Feel free to reach out if you have questions or suggestions!
 | [0098-validate-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 ## Linked List
 |  |
