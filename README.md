@@ -60,6 +60,7 @@ Feel free to reach out if you have questions or suggestions!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0137-single-number-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -96,6 +97,7 @@ Feel free to reach out if you have questions or suggestions!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
