@@ -66,6 +66,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0414-third-maximum-number](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1260-shift-2d-grid](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -81,6 +82,7 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0486-predict-the-winner](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0507-perfect-number](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -99,6 +101,7 @@ Feel free to reach out if you have questions or suggestions!
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0486-predict-the-winner](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -263,4 +266,12 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
