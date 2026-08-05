@@ -239,6 +239,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0100-same-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [3310-remove-methods-from-project](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +259,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0100-same-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [3310-remove-methods-from-project](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,4 +295,8 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->
