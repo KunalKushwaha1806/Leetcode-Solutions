@@ -67,6 +67,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0414-third-maximum-number](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0518-coin-change-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0877-stone-game](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
@@ -107,6 +108,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0486-predict-the-winner](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0518-coin-change-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0877-stone-game](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -299,4 +301,12 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0518-coin-change-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0518-coin-change-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
