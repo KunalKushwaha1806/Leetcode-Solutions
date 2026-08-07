@@ -6,8 +6,10 @@ class Solution:
             return 0
         if grid[r-1][c-1]:
             return 0
-        @cache
+        memo={}
         def S(i,j):
+            if (i,j) in memo:
+                return memo[(i,j)]
             if i==r-1 and j==c-1:
                 return 1
             if i>=r or j>=c or grid[i][j]==1:
@@ -17,7 +19,9 @@ class Solution:
 
             right=S(i,j+1)
             
-            return down + right
+            ans=down + right
+            memo[(i,j)]=ans
+            return ans
         
         return S(0,0)
         
