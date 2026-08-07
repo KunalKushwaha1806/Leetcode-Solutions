@@ -6,22 +6,22 @@ class Solution:
             return 0
         if grid[r-1][c-1]:
             return 0
-        memo={}
+        memo=[[-1]*(c+1) for _ in range(r+1)]
         def S(i,j):
-            if (i,j) in memo:
-                return memo[(i,j)]
+            
             if i==r-1 and j==c-1:
                 return 1
             if i>=r or j>=c or grid[i][j]==1:
                 return 0
+            if memo[i][j]!=-1:
+                return memo[i][j]
 
             down=S(i+1,j)
 
             right=S(i,j+1)
             
-            ans=down + right
-            memo[(i,j)]=ans
-            return ans
+            memo[i][j]=down + right
+            return memo[i][j]
         
         return S(0,0)
         
