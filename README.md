@@ -89,6 +89,7 @@ Feel free to reach out if you have questions or suggestions!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0202-happy-number](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
