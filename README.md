@@ -62,6 +62,7 @@ Feel free to reach out if you have questions or suggestions!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -144,6 +145,7 @@ Feel free to reach out if you have questions or suggestions!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -154,6 +156,7 @@ Feel free to reach out if you have questions or suggestions!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0242-valid-anagram](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
