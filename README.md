@@ -74,6 +74,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0485-max-consecutive-ones](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0877-stone-game](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
@@ -182,6 +183,7 @@ Feel free to reach out if you have questions or suggestions!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
