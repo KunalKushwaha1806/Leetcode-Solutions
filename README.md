@@ -153,6 +153,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0175-combine-two-tables](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0584-find-customer-referee](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
