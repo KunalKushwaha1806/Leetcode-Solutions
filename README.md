@@ -65,6 +65,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0015-3sum](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0137-single-number-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
@@ -199,6 +200,7 @@ Feel free to reach out if you have questions or suggestions!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -275,6 +277,7 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1260-shift-2d-grid](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 | Problem Name | Difficulty |
