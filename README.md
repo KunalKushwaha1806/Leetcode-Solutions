@@ -89,6 +89,7 @@ Feel free to reach out if you have questions or suggestions!
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -191,6 +192,7 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 | Problem Name | Difficulty |
