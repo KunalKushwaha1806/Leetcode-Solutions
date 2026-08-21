@@ -91,6 +91,7 @@ Feel free to reach out if you have questions or suggestions!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -115,6 +116,7 @@ Feel free to reach out if you have questions or suggestions!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -145,6 +147,7 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -217,11 +220,13 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Counting
@@ -296,6 +301,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0137-single-number-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Heap (Priority Queue)
