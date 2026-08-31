@@ -106,6 +106,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0009-palindrome-number](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0279-perfect-squares](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0486-predict-the-winner](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0507-perfect-number](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0507-perfect-number/) | Easy |
@@ -137,6 +138,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0063-unique-paths-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0279-perfect-squares](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0486-predict-the-winner](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
@@ -368,6 +370,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0104-maximum-depth-of-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [3310-remove-methods-from-project](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Linked List
@@ -428,10 +431,12 @@ Feel free to reach out if you have questions or suggestions!
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0518-coin-change-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0518-coin-change-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
