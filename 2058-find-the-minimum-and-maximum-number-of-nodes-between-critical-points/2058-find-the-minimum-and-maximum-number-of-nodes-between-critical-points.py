@@ -20,11 +20,10 @@ class Solution:
             return [-1,-1]
         c_p=[]
         for i in range(1,l-1):
-            if (n[i]>n[i-1] and n[i]>n[i+1]) or \
-            (n[i] < n[i - 1] and n[i] < n[i + 1]):
+            if (n[i]>n[i-1] and n[i]>n[i+1]) or (n[i]<n[i - 1] and n[i]<n[i + 1]):
                 c_p.append(i)
         if len(c_p) < 2:
-            return [-1, -1]
+            return [-1,-1]
         min_dist=float("inf")
         for i in range(1,len(c_p)):
             min_dist=min(min_dist,c_p[i]-c_p[i-1])
