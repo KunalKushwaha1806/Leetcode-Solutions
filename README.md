@@ -79,6 +79,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0540-single-element-in-a-sorted-array](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0740-delete-and-earn](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0877-stone-game](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -145,6 +146,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0486-predict-the-winner](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0740-delete-and-earn](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0877-stone-game](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -219,6 +221,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0205-isomorphic-strings](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0740-delete-and-earn](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
