@@ -13,14 +13,13 @@ class Solution:
         skip = 0
 
         for i in range(len(unique_n)):
-            val = unique_n[i]
-            points = val * len(pos[val])
-
-            if i > 0 and unique_n[i - 1] == val - 1:
-                new_take = skip + points
+            val=unique_n[i]
+            points=val*len(pos[val])
+            if i>0 and unique_n[i - 1]==val - 1:
+                new_take=skip+points
             else:
-                new_take = max(take, skip) + points
-            new_skip = max(take, skip)
-            take, skip = new_take, new_skip
+                new_take=max(take,skip)+points
+            new_skip=max(take,skip)
+            take,skip=new_take,new_skip
 
-        return max(take, skip)
+        return max(take,skip)
