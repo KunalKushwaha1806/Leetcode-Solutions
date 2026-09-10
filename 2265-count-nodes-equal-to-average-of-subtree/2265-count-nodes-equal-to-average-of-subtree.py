@@ -10,7 +10,7 @@ class Solution:
             return
         c=0
         def dfs(node):
-            nonlocal c
+            nonlocal c 
             if not node:
                 return
             if avg(node)==node.val:
