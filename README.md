@@ -353,6 +353,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0098-validate-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -383,6 +384,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0098-validate-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -392,6 +394,7 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
