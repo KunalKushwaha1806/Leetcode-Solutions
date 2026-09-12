@@ -148,6 +148,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0053-maximum-subarray](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -357,6 +358,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0104-maximum-depth-of-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
@@ -371,6 +373,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0104-maximum-depth-of-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
@@ -392,6 +395,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0104-maximum-depth-of-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -515,5 +519,6 @@ Feel free to reach out if you have questions or suggestions!
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
