@@ -120,6 +120,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0492-construct-the-rectangle](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0507-perfect-number](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -537,4 +538,8 @@ Feel free to reach out if you have questions or suggestions!
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
