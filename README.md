@@ -229,6 +229,7 @@ Feel free to reach out if you have questions or suggestions!
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -303,6 +304,7 @@ Feel free to reach out if you have questions or suggestions!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
