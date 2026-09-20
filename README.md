@@ -287,6 +287,7 @@ Feel free to reach out if you have questions or suggestions!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0205-isomorphic-strings](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
@@ -308,6 +309,7 @@ Feel free to reach out if you have questions or suggestions!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -553,4 +555,8 @@ Feel free to reach out if you have questions or suggestions!
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
