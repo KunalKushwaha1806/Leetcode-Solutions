@@ -308,6 +308,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0205-isomorphic-strings](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0394-decode-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -334,6 +335,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0020-valid-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [0394-decode-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -495,6 +497,7 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Game Theory
