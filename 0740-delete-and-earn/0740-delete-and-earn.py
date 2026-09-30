@@ -1,25 +1,20 @@
 class Solution:
-    def deleteAndEarn(self, nums: List[int]) -> int:
-        if not nums:
-            return
-        pos={}
-        for i in range(len(nums)):
-            if nums[i] not in pos:
-                pos[nums[i]]=[i]
-            else:
-                pos[nums[i]].append(i)
-        unique_n=sorted(pos.keys())
-        take = 0
-        skip = 0
+    def deleteAndEarn(self, nums: list[int]) -> int:
 
-        for i in range(len(unique_n)):
-            val=unique_n[i]
-            points=val*len(pos[val])
-            if i>0 and unique_n[i - 1]==val - 1:
-                new_take=skip+points
-            else:
-                new_take=max(take,skip)+points
-            new_skip=max(take,skip)
-            take,skip=new_take,new_skip
-
-        return max(take,skip)
+        n=len(nums)
+        max_e=max(nums)
+        hash_map=[0]*(max_e+1)
+        for n in nums:
+            hash_map[n]+=n
+        memo={}
+        def solve(i):
+            if i>max_e:
+                return 0
+            if i in memo:
+                return memo[i]
+            take=hash_map[i]+solve(i+2)
+            not_take=solve(i+1)
+            ans=max(take,not_take)
+            memo[i]=ans
+            return ans 
+        return solve(0)
