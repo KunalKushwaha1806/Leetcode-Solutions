@@ -158,6 +158,7 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -307,6 +308,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0005-longest-palindromic-substring](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0205-isomorphic-strings](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
@@ -336,6 +338,7 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0394-decode-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0394-decode-string/) | Medium |
@@ -596,6 +599,7 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
