@@ -168,6 +168,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0486-predict-the-winner](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0740-delete-and-earn](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0877-stone-game](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -313,6 +314,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0242-valid-anagram](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0394-decode-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -343,6 +345,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0341-flatten-nested-list-iterator](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0394-decode-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -351,6 +354,7 @@ Feel free to reach out if you have questions or suggestions!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -600,6 +604,7 @@ Feel free to reach out if you have questions or suggestions!
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
