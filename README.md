@@ -315,6 +315,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0344-reverse-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -346,6 +347,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0394-decode-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -605,6 +607,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0020-valid-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
