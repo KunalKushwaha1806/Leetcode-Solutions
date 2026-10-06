@@ -82,6 +82,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0643-maximum-average-subarray-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0740-delete-and-earn](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0835-image-overlap](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -275,6 +276,7 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
