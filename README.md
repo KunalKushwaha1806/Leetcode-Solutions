@@ -96,6 +96,7 @@ Feel free to reach out if you have questions or suggestions!
 | [2029-stone-game-ix](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -397,6 +398,7 @@ Feel free to reach out if you have questions or suggestions!
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
