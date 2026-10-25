@@ -128,6 +128,7 @@ Feel free to reach out if you have questions or suggestions!
 | [3886-sum-of-sortable-integers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3904-smallest-stable-index-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +260,7 @@ Feel free to reach out if you have questions or suggestions!
 | [3731-find-missing-elements](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,6 +313,7 @@ Feel free to reach out if you have questions or suggestions!
 | [3312-sorted-gcd-pair-queries](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -435,6 +438,7 @@ Feel free to reach out if you have questions or suggestions!
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3886-sum-of-sortable-integers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
