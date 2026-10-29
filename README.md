@@ -123,6 +123,7 @@ Feel free to reach out if you have questions or suggestions!
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3731-find-missing-elements](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -378,6 +379,7 @@ Feel free to reach out if you have questions or suggestions!
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,6 +453,7 @@ Feel free to reach out if you have questions or suggestions!
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -461,6 +464,7 @@ Feel free to reach out if you have questions or suggestions!
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -487,6 +491,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0701-insert-into-a-binary-search-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -507,6 +512,7 @@ Feel free to reach out if you have questions or suggestions!
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -563,6 +569,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0053-maximum-subarray](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0191-number-of-1-bits](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -696,6 +703,7 @@ Feel free to reach out if you have questions or suggestions!
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
