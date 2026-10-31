@@ -122,6 +122,7 @@ Feel free to reach out if you have questions or suggestions!
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3731-find-missing-elements](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -203,6 +204,7 @@ Feel free to reach out if you have questions or suggestions!
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -434,6 +436,7 @@ Feel free to reach out if you have questions or suggestions!
 | [1260-shift-2d-grid](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
