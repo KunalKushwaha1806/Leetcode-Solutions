@@ -99,6 +99,7 @@ Feel free to reach out if you have questions or suggestions!
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -492,6 +493,7 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
