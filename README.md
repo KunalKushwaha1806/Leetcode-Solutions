@@ -91,6 +91,7 @@ Feel free to reach out if you have questions or suggestions!
 | [1140-stone-game-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -349,6 +350,7 @@ Feel free to reach out if you have questions or suggestions!
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2029-stone-game-ix](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -453,6 +455,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0835-image-overlap](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -535,6 +538,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0404-sum-of-left-leaves](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -580,6 +584,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0404-sum-of-left-leaves](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [1096-brace-expansion-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -685,6 +690,7 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
