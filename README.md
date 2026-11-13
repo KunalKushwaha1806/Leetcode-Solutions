@@ -121,6 +121,7 @@ Feel free to reach out if you have questions or suggestions!
 | [3312-sorted-gcd-pair-queries](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -429,6 +430,7 @@ Feel free to reach out if you have questions or suggestions!
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -454,6 +456,7 @@ Feel free to reach out if you have questions or suggestions!
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -485,6 +488,7 @@ Feel free to reach out if you have questions or suggestions!
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Bit Manipulation
@@ -620,6 +624,7 @@ Feel free to reach out if you have questions or suggestions!
 | [2747-count-zero-request-servers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -711,6 +716,7 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -768,4 +774,8 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
