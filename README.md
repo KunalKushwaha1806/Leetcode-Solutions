@@ -120,6 +120,7 @@ Feel free to reach out if you have questions or suggestions!
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -369,6 +370,7 @@ Feel free to reach out if you have questions or suggestions!
 | [1140-stone-game-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -624,6 +626,7 @@ Feel free to reach out if you have questions or suggestions!
 | [2747-count-zero-request-servers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Counting Sort
