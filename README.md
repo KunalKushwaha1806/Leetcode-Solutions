@@ -410,6 +410,7 @@ Feel free to reach out if you have questions or suggestions!
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
