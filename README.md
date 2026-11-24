@@ -88,6 +88,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0835-image-overlap](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1051-height-checker](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1140-stone-game-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -286,6 +287,7 @@ Feel free to reach out if you have questions or suggestions!
 | [0435-non-overlapping-intervals](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -658,6 +660,7 @@ Feel free to reach out if you have questions or suggestions!
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1051-height-checker](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -812,4 +815,8 @@ Feel free to reach out if you have questions or suggestions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
