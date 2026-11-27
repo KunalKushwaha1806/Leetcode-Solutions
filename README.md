@@ -152,6 +152,7 @@ Feel free to reach out if you have questions or suggestions!
 | [3904-smallest-stable-index-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -240,6 +241,7 @@ Feel free to reach out if you have questions or suggestions!
 | [3665-twisted-mirror-path-count](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -482,6 +484,7 @@ Feel free to reach out if you have questions or suggestions!
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/KunalKushwaha1806/Leetcode-Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
